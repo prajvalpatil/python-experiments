@@ -1,0 +1,13 @@
+"""num=25
+amt=1256.365
+message="hii"
+pop=130000000
+code='P'
+print("NUM="+str(num))
+print("amt="+str(amt))
+print("Message="+str(message))
+print("pop="+str(pop))
+print("Code="+str(code))"""
+a=10
+b=3
+print(a+b)
